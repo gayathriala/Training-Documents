@@ -78,7 +78,7 @@ su - devopsadmin
 
 ssh-keygen -t rsa -b 1024 -m PEM
 
-ssh-copy-id ansibleadmin@172.31.13.244
+ssh-copy-id ansibleadmin@172.31.13.244 (private ip)
 ssh-copy-id ansibleadmin@172.31.13.144
 
 ssh ansibleadmin@172.31.13.244
