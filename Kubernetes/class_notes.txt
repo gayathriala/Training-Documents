@@ -138,8 +138,8 @@ Kubernetes ::::
 						Kubernetes_Worknode1 (VM)
 						Kubernetes_Worknode2 (VM) 
 						
-				Kubeadm 
-				Minikube 
+				Kubeadm - install, config ,manage pods
+				Minikube -light version of kubernetes management using single node used for learning purpose
 
 			Kubernetes ::
 				Open-Source Kubernetes
