@@ -129,7 +129,7 @@ Kubernetes ::::
 					Persistant Volume 
 					Persistant Volume Claim
 					
-				HELM Charts = Package Manager for Kubernetes
+				HELM Charts = Package Manager for Kubernetes - package installation for whole cluster instead of each slave nodes. package installed will be common to all the cluster nodes
 					
 					
 			- Installation of Kubernetes Master & WorkNodes 
