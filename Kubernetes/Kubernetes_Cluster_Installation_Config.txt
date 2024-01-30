@@ -293,4 +293,6 @@ sudo kubeadm token create --print-join-command
 kubeadm join 172.31.43.81:6443 --token b8niow.8941j6xefsn4h3vh \
         --discovery-token-ca-cert-hash sha256:259105258da6c9f08eff4a213225372a1feb96a6588febd2888abb145d169027
 
+kubectl describe for troubleshooting issues
+
 
