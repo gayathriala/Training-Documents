@@ -255,7 +255,7 @@ Day 9 - 18th Jan.
 				Dependencies :
 					It used automatically Install all the dependencies and plugins required for Builds 
 					
-				pom.xml ==> 
+				pom.xml ==> default congi file for Maven
 				Maven Goals ==> 
 					Compile 
 					Test 	-> code compilation & Testing
